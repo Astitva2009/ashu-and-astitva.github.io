@@ -1,0 +1,1 @@
+document.getElementById('div').innerHTML = 'I am pro';
